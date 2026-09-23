@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "925c83f277a108176a23f8d8",
+  "owner": "xepers",
+  "repo": "page-1e9c51d2e967fb014f1030fa",
+  "title": "缥缈墟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e9c51d2e967fb014f1030fa",
+      "a": "缥缈墟",
+      "b": "机场官网线路发布页",
+      "entity": "缥缈墟",
+      "brand": "缥缈墟",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e1bc2dcca8b967987f20c35d652814890420072442599d05a407038300d4ed17",
+      "content": {
+        "primary_entity": "缥缈墟",
+        "keyword1": "缥缈墟",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖个人、家庭与团队场景。基础版每月 100GB 流量、3 台设备在线，适合日常浏览与轻量流媒体；旗舰版每月 300GB 流量、5 台设备在线，配有 IPLC 专线与原生流媒体解锁；团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由。月付灵活，年付更省，按需选择即可。",
+          "AI_HERO_SUBTITLE": "多档订阅适配个人与团队",
+          "AI_HERO_INTRO": "缥缈墟提供多档订阅方案，围绕流量、设备数量与线路类型区分基础版、旗舰版与团队版。个人用户可从基础版起步，家庭或常看流媒体可选旗舰版，团队协作则适用团队版。查看套餐明细后即可按设备情况导入订阅使用。",
+          "AI_VISUAL_TITLE": "缥缈墟多档订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个维度比较套餐，更容易找到适合的档位。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量对应选择。",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台，覆盖个人到团队。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "月付随时开始，年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备的客户端安装方式各有差异，按系统选择对应工具后导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。流量从 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版额外提供 IPLC 专线优化。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "选定套餐后，按设备与客户端文档完成订阅导入，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量、设备数量与线路需求，在基础版、旗舰版与团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对所用设备系统与同时在线数量，确认是否满足所选套餐的设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成节点选择与连接设置。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "缥缈墟三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "看两点：每月流量和同时在线设备数。100GB 与 3 台设备选基础版；300GB 与 5 台设备，并需要 IPLC 专线，选旗舰版；1000GB 与 20 台设备，选团队版。",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量从 100GB 提升到 300GB，同时在线设备从 3 台增加到 5 台，配有全节点原生流媒体解锁、IPLC 专线游戏加速优化与优先工单支持。",
+          "AI_FAQ_QUESTION_3": "年付和月付差别在哪？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，随时开始；年付一次性支付一年费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折算下来低于按月支付。",
+          "AI_FAQ_QUESTION_4": "订阅可以给多台设备用吗？",
+          "AI_FAQ_ANSWER_4": "可以，但受同时在线设备数限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出后需要减少同时在线的设备数量。",
+          "AI_FAQ_QUESTION_5": "不同系统该用什么客户端？",
+          "AI_FAQ_ANSWER_5": "按设备系统选择对应客户端，Windows、macOS、Android、iOS 等平台各有适配工具，安装后依照客户端文档导入订阅信息完成配置。",
+          "AI_CLOSING_TITLE": "选对套餐再导入订阅",
+          "AI_CLOSING_TEXT": "比较三档套餐的流量与设备数，选定后按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alyhvi.cn",
+    "host": "alyhvi.cn"
+  },
+  "file_hashes": {
+    "index.html": "33bcbb683275889573320fab2b1101e679e2712a73b1119685947d4ae1c01228",
+    "sitemap.xml": "27b204e21ddf7bdc574e9858655a5d3a6e0632f659a6e8a8f7cedc40abd2d03d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9ba92b6ec7d8c568bbd30f45e29a5a4a68aa0d86af7c4850e9b863cb43c20d4a",
+    "robots.txt": "6bdb2bcbd13bc71e890c868b5191853aa4daf7b032d1c664c79f42e9ce5c2787",
+    "2f4f1becd001588853617d1d8487cb73.txt": "2038d044f891b063511eab237aa0dde8455aecda8db6489c41e0979ff208e080"
+  },
+  "revision": "bd8f580d45804f36c21f8f9abfc948927bfa9eb11fa9af8d26af747d791cfaf2"
+}
